@@ -1,0 +1,5 @@
+{
+  "name": "Copy of NutriTRACKer",
+  "description": "An intelligent AI-powered meal tracker that estimates calories from natural language descriptions, tracks weight/BMI, and visualizes weekly progress.",
+  "requestFramePermissions": []
+}
